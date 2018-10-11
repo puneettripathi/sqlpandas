@@ -1,0 +1,8 @@
+[
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_add_df",
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_derived_column",
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_get_oriented_dict_tags_str",
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_get_pairs_string",
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_parse_sql",
+  "test/test_sqlpandas_parser.py::TestPandasSql::test_read_file"
+]
