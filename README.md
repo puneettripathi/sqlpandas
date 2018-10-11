@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/puneettripathi/sqlpandas/badge.svg?branch=master)](https://coveralls.io/github/puneettripathi/sqlpandas?branch=master)
-
 # SQL For Pandas
 ##### The library can take any `pandas dataframe` and you should be able to run `SQL` on top of `dataframe` then. `pandas` already provides a nice way of working with dataset. `sqlpandas` is an initiative to bring `pandas` to `SQL` folks too.
 
