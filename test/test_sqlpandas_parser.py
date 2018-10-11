@@ -17,11 +17,11 @@ class TestPandasSql(unittest.TestCase):
         sql.add_df(df)
         self.assertEqual(all(sql.df == df), True)
 
-    def test_read_file(self):
-        df = pd.read_csv("test_files" + os.sep + "test.txt")
-        sql = PandasSql()
-        sql.read_file("test_files" + os.sep + "test.txt")
-        self.assertEqual(all(sql.df == df), True)
+    # def test_read_file(self):
+    #     df = pd.read_csv("test_files" + os.sep + "test.txt")
+    #     sql = PandasSql()
+    #     sql.read_file("test_files" + os.sep + "test.txt")
+    #     self.assertEqual(all(sql.df == df), True)
 
     def test_parse_sql(self):
         _actual = {'select': '*', 'from': 'df'}
