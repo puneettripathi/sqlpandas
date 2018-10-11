@@ -28,4 +28,6 @@ dta = sql.sql("select * from df where b > 3 order by d")
 ```
 
 ##### For any questions or if you want to contribute contact 
-###### Puneet Tripathi (puneet.tripathim@gmail.com)
+###### Puneet Tripathi
+###### Email: puneet.tripathim@gmail.com
+###### LinkedIn: https://www.linkedin.com/in/puneet-tripathi/
