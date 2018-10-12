@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/puneettripathi/sqlpandas.svg?branch=master)](https://travis-ci.org/puneettripathi/sqlpandas)
 [![Coverage Status](https://coveralls.io/repos/github/puneettripathi/sqlpandas/badge.svg?branch=master)](https://coveralls.io/github/puneettripathi/sqlpandas?branch=master)
 
 # SQL For Pandas
