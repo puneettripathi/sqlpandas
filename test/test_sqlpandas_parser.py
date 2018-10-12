@@ -4,6 +4,7 @@ from sqlpandas.parser import PandasSql
 import unittest
 from collections import OrderedDict
 
+
 class TestPandasSql(unittest.TestCase):
     """
 
